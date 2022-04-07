@@ -16,7 +16,7 @@ Solved Course Assignments => [ 1 ] <br />
 
 #### Assignments
 
-- Introduction => [Assignments From 001 To 005](https://elzero.org/php-bootcamp-assignments-lesson-from-1-to-5/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-001%20-%20010%20-%201.py)
+- Introduction => [Assignments From 001 To 005](https://elzero.org/php-bootcamp-assignments-lesson-from-1-to-5/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero-PHP-Course/blob/main/PHP-Assignment-1.php)
 
 
 #### Special Thanks To [Osama Elzero](https://www.youtube.com/user/OsamaElzero)
