@@ -41,5 +41,5 @@ Created By Elzero*/
 /* /* /* Third Comment */
 ////// Fourth Comment  
 /*
-Fourth is The Wrong Comment
+They Are All Correct
 */
